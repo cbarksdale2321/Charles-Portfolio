@@ -1,8 +1,7 @@
 # Charles-Portfolio
 
-INSTRUCTIONS FOR CONSOLE PROJECTS 
 
----Project Summaries---
+---Console Project Summaries---
 
 EXAMPLES - Gves examples for Big O notation
 
